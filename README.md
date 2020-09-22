@@ -1,2 +1,2 @@
 # online monitoring system of urban waterlogging
-prediction of flood deposit using RNN model to identify Weibo posts that report urban flood deposits.
+We aim at alerting users the urban flood deposit using RNN model to identify Weibo posts that report flood waterlogging. We manually curated more than 4,400 waterlogging posts to train the RNN model so that it can precisely identify waterlogging-related posts of Sina Weibo to timely find out urban waterlogging. The RNN model has been thoroughly evaluated, and showed higher accuracy than traditional machine learning methods, such as SVM and GBDT. Furthermore, we have built a nationwide map of more than 8000 urban waterlogging points based on recent three-year microblogging data.
